@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a1phaaa,a student from Guilin University Of Electronic Technology.
 - 👀 I’m interested in photography, CTF and cyber security.
 - 🌱 I’m currently learning knowledge related to cyber security at school.
-- 📫 You can contact me through this email:<a href="mailto:alphaa@163.com">alphaa@163.com</a>
+- 📫 You can contact me through this email:<a href="mailto:a1phaa@163.com">a1phaa@163.com</a>
 - 🍻🍻🍻
 
 <!---
