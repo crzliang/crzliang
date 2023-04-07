@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @a1phaaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m a1phaaa,a student from Guilin University Of Electronic Technology.
+- 👀 I’m interested in photography, CTF and cyber security.
+- 🌱 I’m currently learning knowledge related to cyber security at school.
+- 📫 You can contact me through this email:<a href="mailto:alphaa@163.com">alphaa@163.com</a>
+🍻🍻🍻
 
 <!---
 a1phaaa/a1phaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
