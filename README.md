@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a1phaaa,a student from Guilin University Of Electronic Technology.
+- 👋 Hi, I’m crzliang,a student from Guilin University Of Electronic Technology.
 - 👀 I’m interested in photography, CTF and cyber security.
 - 🌱 I’m currently learning knowledge related to cyber security at school.
 - 📫 You can contact me through this email: <a href="mailto:crzliang@qq.com">crzliang@qq.com</a>
