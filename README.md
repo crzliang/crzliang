@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Tools&use
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,windows,cloudflare,gcp,git,github,githubactions,mysql,postgres,nginx,powershell,gmail,obsidian,ai,au,ps,pr,clion,phpstorm,pycharm,idea,vim,sublime,vscode,md,c,java,py,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,ubuntu,windows,cloudflare,gcp,git,github,githubactions,mysql,postgres,nginx,powershell,gmail,obsidian,ae,ps,pr,clion,phpstorm,pycharm,idea,vim,sublime,vscode,md,c,java,py,php)](https://skillicons.dev)
