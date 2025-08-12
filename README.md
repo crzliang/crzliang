@@ -1,6 +1,5 @@
-- 👋 Hi, I’m crzliang,a student from Guilin University Of Electronic Technology.
-- 👀 I’m interested in photography, CTF and cyber security.
-- 🌱 I’m currently learning knowledge related to cyber security at school.
+- 👋 Hi, I’m crzliang, graduated from GUET.
+- 👀 I’m interested in Photography, CTF and Cyber Security.
 - 📫 You can contact me through this email: <a href="mailto:crzliang@outlook.com">crzliang@outlook.com</a>
 - 🍻🍻🍻
 
